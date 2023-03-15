@@ -1,4 +1,4 @@
-
+// Cheking E-mail Validations //
 email = input("Enter your Email : ")
 k,j,d=0,0,0
 if len(email) >= 6: #1
